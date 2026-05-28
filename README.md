@@ -1,5 +1,5 @@
 Financial Analysis: Full DCF (Discounted Cash Flow) of Valuation Financial Model.
-Arnav Chaturvedi
+Havinash Hareesh
 Project Role: Financial Analyst – Retail Industry.
 DCF (Discounted Cash Flow) Financial Model of Valuation:
 The Discounted Cash Flow (DCF) model is a method of valuation used to estimate the value of an investment based on its expected future cash flow. It essentially calculates the present value of future cash flows, considering the "time value of money" principle, meaning that money received today is worth more than the same amount received in the future. Analysts use DCF to determine the value of an investment today, based on projections of how much money that investment will generate in the future. The DCF formula takes into account how much return you expect to earn, and the resulting value is how much you would be willing to pay for something to receive exactly that rate of return. If you pay less than the DCF value, your rate of return will be higher than the discount rate.
